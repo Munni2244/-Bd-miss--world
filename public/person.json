@@ -1,0 +1,110 @@
+[
+    {
+      "name": "Oishee",
+      "role": "Modeling",
+      "age": 27,
+      "country": "Bangladesh",
+      "salary": 30000,
+      "id": 1,
+      "img": "https://www.observerbd.com/2019/02/16/observerbd.com_1550341398.jpg"
+    },
+    {
+      "name": "Tangia Zaman Methila",
+      "role": "Actor",
+      "age": 30,
+      "country": "BD",
+      "salary": 40000,
+      "id": 2,
+      "img": "https://1.bp.blogspot.com/-27II7zECnH0/YH6M6x9DsPI/AAAAAAAACBE/L-pkgbTIW2kYIvpaBy42Z4rr4c48P3SwQCPcBGAYYCw/s1343/Miss%2BUniverse%2BBangladesh%2B2020%2BTangia%2BZaman%2BMethila%2Bwithdraws%2Bfrom%2Bthe%2B69th%2BMiss%2BUniverse%2Bpageant.jpg"
+    },
+    {
+      "name": "Jassia Islam",
+      "role": "Modeling",
+      "age": 26,
+      "country": "Bangladesh",
+      "salary": 40000,
+      "id": 3,
+      "img": "https://live.staticflickr.com/4506/37289841990_f66845a3bf_b.jpg"
+    },
+    {
+      "name": "Jannat Nayeem",
+      "role": "Actor",
+      "age": 29,
+      "country": "Bangladesh",
+      "salary": 55000,
+      "id": 4,
+      "img": "https://www.lastnewsbd.com/en/wp-content/uploads/2017/09/jannatul.jpg"
+    },
+    {
+      "name": "Rafa Nanjeba Torsha",
+      "role": "House Wife",
+      "age": 22,
+      "country": "Bangladesh",
+      "salary": 32000,
+      "id": 5,
+      "img": "https://i0.wp.com/www.thedailybiography.com/wp-content/uploads/2020/02/Rafah-Nanjeba-Torsa-Image-8.jpg"
+    },
+    {
+      "name": "Jannatul Sumaya Heme",
+      "role": "singer",
+      "age": 23,
+      "country": "Bangladesh",
+      "salary": 76000,
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrceFh-zf408NQcHNufo8bQ5eam9tmucU3IDHYTA5tOrTQgDminP7xd2kxxeJb1k7TOlA&usqp=CAU"
+    },
+    {
+      "name": "Samia Othoi",
+      "role": "Modeling",
+      "age": 24,
+      "country": "Bangladesh",
+      "salary": 90000,
+      "id": 7,
+      "img": "https://i.pinimg.com/originals/2a/5e/04/2a5e041906de405b9f6da41f5cb08842.png"
+    },
+    {
+      "name": "Alisa Islam",
+      "role": "Actor",
+      "age": 27,
+      "country": "Bangladesh",
+      "salary": 120000,
+      "id": 8,
+      "img": "https://www.angelopedia.com/Winnerpic/DP0JUQLY6HWinner2.jpg"
+    },
+    {
+      "name": "Shirin Akter Shila",
+      "role": "Modeling",
+      "age": 28,
+      "country": "Bangladesh",
+      "salary": 70000,
+      "id": 9,
+      "img": "https://www.angelopedia.com/Winnerpic/D6083OSASSWinner1.jpg"
+    },
+    {
+      "name": "Manussi chiller",
+      "role": "Actor",
+      "age": 32,
+      "country": "Bangladesh",
+      "salary": 60000,
+      "id": 10,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw6Qo66i0Tg0cGHumgnF56i7w5XmZwCOt3vYmMVix_FOdCC5vRkeJt7gWFeDGWPSm1iY&usqp=CAU"
+    },
+    {
+      "name": "Rafa Nanjeba Torsa",
+      "role": "Modeling",
+      "age": 31,
+      "country": "Bangladesh",
+      "salary": 34000,
+      "id": 11,
+      "img": "https://uploads.celebheightwiki.com/images/98/rafah-nanjeba-torsa.jpg"
+    },
+    {
+      "name": "MehZaabeen",
+      "role": "Modeling",
+      "age": 34,
+      "country": "Bangladesh",
+      "salary": 12000,
+      "id": 12,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LCSS_2009_Mehazabien_Shows_Virtue_Sign.jpg"
+    }
+  ]
