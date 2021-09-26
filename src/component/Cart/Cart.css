@@ -1,8 +1,8 @@
 .cart-div{
     display: flex;
     width: 300px;
-  background-image: linear-gradient(rgb(65, 63, 63), pink);
-    color: rgb(245, 231, 231);
+   background-color: rgba(161, 159, 159, 0.856);
+    color: rgb(10, 0, 0);
     margin-top: 10px;
     border-radius: 30px;
     padding: 10px;
@@ -10,13 +10,17 @@
     
 
 }
+.cart-div:hover{
+  background-color: black;
+  color: white;
+}
 .cart-div img {
     width: 60px;
     border-radius: 80%;
 }
 .applyBtn{
-  background-color: rgb(39, 49, 2);
-  color: pink;
+  background-color: rgb(60, 24, 192);
+  color: whitesmoke;
   border: 1px solid rgb(177, 173, 173);
   border-radius: 10px;
   padding: 3px;

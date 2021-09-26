@@ -2,10 +2,10 @@ import React from 'react';
 import './Person.css'
 
 const Person = (props) => {
-    const {name, role,age, country, salary, img}=props.person;
+    const {name, role,age, country, salary, img}=props.person;  //person destructuring
 
     return (
-        <div className="person-blog col-lg-4">
+        <div className="person-blog col-lg-4 shadow-lg">
            <img src={img} alt="" />
             <h3>Name:   {name}</h3>
             <h6>Role:   {role}</h6>
