@@ -1,15 +1,24 @@
 .cart-div{
     display: flex;
     width: 300px;
-    background-color: rgba(245, 128, 210, 0.308);
-    color: rgb(34, 30, 30);
+  background-image: linear-gradient(rgb(65, 63, 63), pink);
+    color: rgb(245, 231, 231);
     margin-top: 10px;
     border-radius: 30px;
     padding: 10px;
+    align-items: center;
     
 
 }
 .cart-div img {
     width: 60px;
     border-radius: 80%;
+}
+.applyBtn{
+  background-color: rgb(39, 49, 2);
+  color: pink;
+  border: 1px solid rgb(177, 173, 173);
+  border-radius: 10px;
+  padding: 3px;
+
 }

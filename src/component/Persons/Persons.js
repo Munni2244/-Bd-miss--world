@@ -30,8 +30,7 @@ const Persons = () => {
        
           </div>
 
-          <div className=" col-lg-4">
-        <h1>Cart</h1>
+          <div className=" addCart col-lg-4">
         <Cart carts={carts}></Cart>
           </div>
     

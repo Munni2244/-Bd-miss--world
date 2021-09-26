@@ -11,12 +11,13 @@ for(const cart of carts){
 
     return (
         <div>
-            <h3> Select Person: {carts.length}</h3>
+            <h3> <i class="fas fa-user text-warning"></i> Select Person: {carts.length}</h3>
             <h3>TotalCost: ${totalSalary}</h3>
+            <button className="applyBtn">Apply Now</button>
      {
-         carts.map(persons=> <div className="cart-div">
-             <img src={persons.img} alt="" />
-             <h5>{persons.name}</h5>
+         carts.map(person=> <div className="cart-div">
+             <img src={person.img} alt="" />
+             <h5 style={{marginLeft:'5px'}}>{person.name}</h5>
          </div> )
      }
         </div>
